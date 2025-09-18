@@ -16,7 +16,7 @@ Modern Symfony alkalmazás könyvtár megnyitási események kezelésére fix ka
 - *Adatbázis*: SQLite (MySQL kompatibilis)
 - *API*: REST JSON
 
-## 📦 Telepítés
+# Telepítés
 
 ```bash
 #Az alábbiakat telepítettem én:
